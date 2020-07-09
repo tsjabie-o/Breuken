@@ -1,0 +1,7 @@
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 4\Opdracht 4\bin\Debug\Opdracht 4.exe.config
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 4\Opdracht 4\bin\Debug\Opdracht 4.exe
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 4\Opdracht 4\bin\Debug\Opdracht 4.pdb
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 4\Opdracht 4\obj\Debug\Opdracht 4.csprojAssemblyReference.cache
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 4\Opdracht 4\obj\Debug\Opdracht 4.csproj.CoreCompileInputs.cache
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 4\Opdracht 4\obj\Debug\Opdracht 4.exe
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 4\Opdracht 4\obj\Debug\Opdracht 4.pdb
