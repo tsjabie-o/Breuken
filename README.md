@@ -2,23 +2,9 @@
 Opdracht voor studie
 
 
-Je gaat een algoritme maken om breuken te sorteren. Je besluit vooral
-quicksort te gebruiken, omdat het zo. . . quick is, maar voor het sorteren van ‘korte’ segmenten
-implementeer je selection sort.
-Een ‘kort’ segment is elk segment dat korter is dan of even lang is als een zekere drempelwaarde,
-die als onderdeel van de input is gegeven. Je moet selection sort gebruiken voor alle korte
-segmenten, dus ook de segmenten die je tegenkomt wanneer je quicksort recursief aanroept.
-Doe deze check dus niet alleen aan het begin van het sorteren van de gehele lijst, maar steeds
-als je een segment wil gaan sorteren: is het ‘kort’, gebruik dan selection sort, en anders
-quicksort.
-Daarbij wil je natuurlijk in het domein van de gehele getallen blijven, en er geen vieze kommagetallen van maken 
-en problemen door afrondingsfouten en beperkte nauwkeurigheid introduceren.
-De invoer heeft op de eerste regel een getal n, maximaal 9 999 999, en een getal k, maximaal
-999 999. Dan volgen n regels met elk twee integers, beide maximaal 999 999 999: de teller
-en noemer van een breuk. De noemer is positief. De betekenis van de parameter k wordt
-hieronder bij “Algoritmische eisen” uitgelegd.
-De uitvoer heeft op de eerste regel weer het getal n, en op de regels erna dezelfde breuken
-als in de invoer, maar dan oplopend gesorteerd op grootte van de waarde van de breuk.
+Een programma dat breuken sorteert op waarde. Dat doet het programma zonder de breuk te berekenen om afrondingsfouten te voorkomen.
+Het programma gebruikt een hybride soorteeralgoritme, bestaande uit quicksort en selection sort. Zie Algoritmische Eisen voor details.
+
 
 ALGORITMISCHE EISEN
 De opdracht heeft twee verschillende aspecten: het representeren van de objecten die je
